@@ -70,5 +70,9 @@ Apart from log analysis splunk alo provides features for monitoring and alerting
 
 <img width="1434" alt="Screenshot 2023-03-25 at 3 03 07 PM" src="https://user-images.githubusercontent.com/43849911/227709148-d5413cdb-6caa-41ec-89f4-b4cc774e2b26.png">
 
+<img width="1589" alt="Screenshot 2023-03-25 at 3 19 49 PM" src="https://user-images.githubusercontent.com/43849911/227709995-49176c6c-2e3e-49c1-b4a6-e67814a90f7e.png">
 
+<img width="1590" alt="Screenshot 2023-03-25 at 3 20 52 PM" src="https://user-images.githubusercontent.com/43849911/227710024-22f367ac-9b3b-4939-98af-0ddc3c74459f.png">
+
+<img width="1596" alt="Screenshot 2023-03-25 at 3 21 43 PM" src="https://user-images.githubusercontent.com/43849911/227710069-d351282b-47b0-4842-987c-cffe42424dbf.png">
 
